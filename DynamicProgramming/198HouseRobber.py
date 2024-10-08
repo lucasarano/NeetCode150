@@ -14,4 +14,3 @@ class Solution:
             two = money
             i += 1
         return two
-    
